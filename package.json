@@ -1,0 +1,15 @@
+{
+  "name": "appunti",
+  "version": "1.0.0",
+  "description": "Website of notes",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trevor Devalle",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  }
+}
