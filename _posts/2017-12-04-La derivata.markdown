@@ -2,7 +2,7 @@
 layout: post
 title:  "La derivata"
 date:   2017-12-04 22:18:49 +0100
-categories: jekyll update
+categories: Analisi
 ---
 
 <h1>Derivata</h1>

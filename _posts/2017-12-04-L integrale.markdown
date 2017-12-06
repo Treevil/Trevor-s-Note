@@ -2,7 +2,7 @@
 layout: post
 title:  "L'integrale"
 date:   2017-12-04 22:18:49 +0100
-categories: jekyll update
+categories: Analisi
 ---
 
 <h1>Integrale</h1>
