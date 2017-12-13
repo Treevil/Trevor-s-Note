@@ -141,7 +141,12 @@ Gli indici sono uno degli aspetti più importanti della progettazione fisica di 
 
 L'indice è una struttura separata dall'area primaria(aria che contiene i dati). 
 
-Però prima di conoscere gli indici dovremmo conoscere i B-Tree.
+Però prima di conoscere gli indici dovremmo conoscere i [B-Tree](#).
 
 
+Nell'indice in una basi di dati, i nodi dell'indice sono pagine e i puntatore ai livelli inferiori sono PID. Nella tecnologia mordna le pagine hanno dimensioni consisteniti, ma solitamente le pagine degli indici vanno dimensionate in modo generoso.
 
+
+Dal momento che abbiamo valori alti di N e piuttosto alti di m, la forma 
+
+[..]

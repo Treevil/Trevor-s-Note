@@ -74,9 +74,9 @@ Utilizzare la sola definizione di vincolo di dipedenza per verificare le equival
 
 Armstrong è riuscito a costruire una teoria assiomatica con la quale caratterizza la dipedenza funzionale. 
 
-Assiomi
+Assiomi:
  - Riflessività $$ Y \subseteq X \Rightarrow X \rightarrow Y \$$
- - Unione $$ X \rightarrow Y, X \rightarrow Z \Rightarrow x \rightarrow YZ $$ con $$YZ = Y \bigcup Z$$   
+ - Unione $$ X \rightarrow Y, X \rightarrow Z \Rightarrow X \rightarrow YZ $$
  - Transitività $$X \rightarrow Y,  Y \rightarrow Z \Rightarrow X \rightarrow Z $$
 
 Il vincolo della dipendenza funzionale è un modello (in senso matematico) della teoria di Armstrong. Un modello calza su una teoria (fitta la teoria), quando gli assiomi della teoria sono rispettati dal modello.

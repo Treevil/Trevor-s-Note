@@ -1,3 +1,15 @@
+/*
+Tables 
+
+*/
+tr {
+    td, th {
+      padding: 0 5px;
+      text-align: center;
+      outline: 1px solid #274690;
+    }
+}
+
 h1, h2, h3, h4, h5,h6 {
     color: #274690;
 }
@@ -13,4 +25,59 @@ h1, h2, h3, h4, h5,h6 {
 
 .note {
     color: #60B2E5
+}
+
+
+
+.litte-box {
+    height: 1rem;
+    width: 1rem;
+    display: inline;
+}
+
+.bg-red {
+    background: red;
+}
+
+.bg-lightgreen {
+    background:  #88D498;
+}
+
+.bg-lightblue {
+    background: #114B5F;
+}
+
+.bg-redpurple {
+    background-color: #230C33;
+}
+
+.bg-copper {
+    background-color: #B27C66;
+}
+
+.bg-fresh {
+    background: #A5D8FF;
+}
+.c-red {
+    color: red;
+}
+
+.c-lightgreen {
+    color: #88D498;
+}
+
+.c-lightblue {
+    color: #114B5F;
+}
+
+.c-redpurple {
+    color: #230C33;
+}
+
+.c-copper{
+    color: #B27C66;
+}
+
+.c-fresh {
+    color: #A5D8FF;
 }
