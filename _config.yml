@@ -18,8 +18,8 @@ email: trevor.devalle@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Questo è sito è un repository di appunti per tutte le materie di cui sono interessato o che sono obbligato ad interessarmi a causa dell'università. 
   Spero che vi piaccia. Un giorno potrei pure metterci una grafica che vada oltrequesto spazio minimale. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "  treevil.github.io/notes" 
+baseurl: "/Trevor-s-Note" # the subpath of your site, e.g. /blog
+url: "treevil.github.io/" 
 twitter_username: jekyllrb
 github_username:  jekyll
 
