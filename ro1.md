@@ -113,3 +113,36 @@ soggetto a
 3)$$ x_1 \geq 200; x_2 \geq 200; x_3 \geq 150 $$
 
 $$ x_1, x_2, x_3 \in \mathbb{Z}_+ $$
+
+## Il problema del distributore di giornali. 
+
+La casa editrice ANALFABETA pubblica un quotidiano che viene distribuito da quattro centri di smistamento S1, S2, S3, S4 che richiedono rispettivamente almeno 100000, 150000, 50000 e 75000 copie. Il giornale viene stampato in tre tipografie T1, T2, T3 che producono rispettivamente al massimo 125000, 180000 e 70000 copie
+I costi per la spedizione sono di 2 euro/Km. per giornale e le distanze tra le tipografie ed i centri di smistamento sono rispettivamente di 20, 25, 15 e 5 Km. per la prima tipografia, di 12, 14, 18 e 30 Km per la seconda, e di 19, 11, 40 e 12 Km per la terza.
+
+(a) Formulare il modello di Programmazione Lineare per pianificare le spedizioni a costo totale minimo.
+(b) Si definisca il costo di approvvigionamento di un centro di smistamento come il costo totale delle spedizioni verso quel centro. Formulare il modello di Programmazione Lineare che minimizza il massimo costo di approvvigionamento.
+
+### Soluzione
+
+[Dopo]
+
+
+
+## Il problema del persona di un motel
+Un motel autostradale, dovendo garantire un serivizio continuato 24 ore su 24, ha bisogno di un numero minimo di inservienti per ogni ora del giorno secondo la seguente tabella.
+
+
+Ora: Numero Minimo
+2-6 : 4
+6-10: 8
+10-14: 10
+14-18: 7
+18-22: 12
+22-02: 4
+
+Ciascun inserviente lavora 8 ore consecutive al giorno
+
+Formulare il modello di programmazione lineare per garantire la presenza richiesta utilizzando il minor numero possibile di inservienti.
+
+### Soluzione
+
